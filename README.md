@@ -37,7 +37,7 @@ Currently working on building my portfolio with projects in:
 - Responsive Web Design
 
 ## 📊 GitHub Stats
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palak-web&show_icons=true&theme=radical)
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak-web&show_icons=true&theme=radical)
 
 ## 📫 Get In Touch
 - Email: palak55544@gmail.com
